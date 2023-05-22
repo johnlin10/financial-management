@@ -1,0 +1,37 @@
+{
+  "short_name": "財務管理",
+  "name": "財務管理",
+  "splash_pages": [
+    {
+      "url": "/",
+      "name": "財務管理",
+      "description": "輔助商家管理支出與收入",
+      "icons": [
+        {
+          "src": "",
+          "type": "image/png",
+          "sizes": "x",
+          "purpose": "any"
+        }
+      ]
+    }
+  ],
+  "icons": [
+    {
+      "src": "",
+      "type": "image/png",
+      "sizes": "x",
+      "purpose": "any"
+    }
+  ],
+  "id": "/classdata5",
+  "start_url": "https://johnlin10.github.io/classdata-app/?page=home",
+  "background_color": "#1c1c1c",
+  "purpose": "any",
+  "display": "standalone",
+  "scope": "https://johnlin10.github.io/classdata-app/",
+  "orientation": "portrait",
+  "theme_color": "#1c1c1c",
+  "description": "班級、學校的即時資訊",
+  "gcm_sender_id": "219989250207"
+}
