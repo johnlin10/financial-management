@@ -24,14 +24,14 @@
       "purpose": "any"
     }
   ],
-  "id": "/classdata5",
-  "start_url": "https://johnlin10.github.io/classdata-app/?page=home",
-  "background_color": "#1c1c1c",
+  "id": "/financial-management",
+  "start_url": "https://johnlin10.github.io/financial-management/",
+  "background_color": "#282c34",
   "purpose": "any",
   "display": "standalone",
-  "scope": "https://johnlin10.github.io/classdata-app/",
+  "scope": "https://johnlin10.github.io/financial-management/",
   "orientation": "portrait",
-  "theme_color": "#1c1c1c",
-  "description": "班級、學校的即時資訊",
-  "gcm_sender_id": "219989250207"
+  "theme_color": "#282c34",
+  "description": "輔助商家管理支出與收入",
+  "gcm_sender_id": "639126786101"
 }
