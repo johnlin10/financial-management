@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/financial-management/static/css/main.073c9b0a.css",
-    "main.js": "/financial-management/static/js/main.bf79c4e4.js",
+    "main.css": "/financial-management/static/css/main.97402eef.css",
+    "main.js": "/financial-management/static/js/main.acf101b1.js",
     "static/js/787.1d67f6fb.chunk.js": "/financial-management/static/js/787.1d67f6fb.chunk.js",
     "service-worker.js": "/financial-management/service-worker.js",
-    "static/media/logo.svg": "/financial-management/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/financial-management/index.html",
-    "main.073c9b0a.css.map": "/financial-management/static/css/main.073c9b0a.css.map",
-    "main.bf79c4e4.js.map": "/financial-management/static/js/main.bf79c4e4.js.map",
+    "main.97402eef.css.map": "/financial-management/static/css/main.97402eef.css.map",
+    "main.acf101b1.js.map": "/financial-management/static/js/main.acf101b1.js.map",
     "787.1d67f6fb.chunk.js.map": "/financial-management/static/js/787.1d67f6fb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.bf79c4e4.js"
+    "static/css/main.97402eef.css",
+    "static/js/main.acf101b1.js"
   ]
 }
